@@ -1,6 +1,7 @@
 #QA-study
 
-#My chek lists
+#My chek lists  
+
 [Переглянути мій чек-ліст у Google Docs](https://docs.google.com/spreadsheets/d/1bxrSRX98h61LxYgF8jmxTwPfnplIoNCMh14qA3y4eiA/edit?usp=sharing)  
 
 [Переглянути мій чек-ліст у Google Docs](https://docs.google.com/spreadsheets/d/10F0joa_5xDLunmapWI2dJJmuxQza3mR9ounk3wbqfNE/edit?usp=sharing)  
